@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>
